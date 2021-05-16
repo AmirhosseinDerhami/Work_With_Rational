@@ -183,7 +183,7 @@ public class RationalTest {
                     list.set(index, rationalAns1and2.toString());
                     list.remove(index + 1);
                     list.remove(index - 1);
-                    //      index = 0;
+                    index = 0;
                     break;
                 }
                 case "D": {
@@ -194,7 +194,7 @@ public class RationalTest {
                     list.set(index, rationalAns1and2.toString());
                     list.remove(index + 1);
                     list.remove(index - 1);
-                    //     index = 0;
+                    index = 0;
                     break;
                 }
                 case "P": {
@@ -205,7 +205,7 @@ public class RationalTest {
                     list.set(index, rationalAns1and2.toString());
                     list.remove(index + 1);
                     list.remove(index - 1);
-                    //   index = 0;
+                    index = 0;
                     break;
                 }
                 case "M": {
@@ -216,7 +216,7 @@ public class RationalTest {
                     list.set(index, rationalAns1and2.toString());
                     list.remove(index + 1);
                     list.remove(index - 1);
-                    //    index = 0;
+                    index = 0;
                     break;
                 }
                 default:
